@@ -1,6 +1,6 @@
-# Blackmagic Design Documentation Collection
+# Awesome Blackmagic Design [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The goal of this project is to maintain a collection of lists of software, libraries, documentations, videos, tutorials or anything useful around Blackmagic Design products.
+A curated list of amazingly awesome collection of lists, software, libraries, documentations, videos, tutorials and anything useful around Blackmagic Design products. 
 
 ## Protocol Docs and Reverse Engineerings
 
