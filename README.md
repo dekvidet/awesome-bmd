@@ -16,6 +16,7 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 
 - [BMD ATEM switcher protocol by Skaarhoj](https://www.skaarhoj.com/discover/blackmagic-atem-switcher-protocol)
 - [BMD Camera HDMI protocol](https://blog.brixit.nl/reverse-engineering-the-bmd-camera-hdmi-control/)
+- [Blackmagic firmware reverse engineering](https://github.com/micolous/blackmagic-firmware-re): Tools (`libbmfw` / `bmfw`) for inspecting and extracting BMD firmware and gateware update packages (ATEM, Web Presenter, converters, and more).
 
 ## Libraries
 
@@ -52,7 +53,7 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 - [H2R Layouts](https://layouts.heretorecord.com): Online alternate UI for Super Sources via macros.
 - [OpenSwitcher](https://openswitcher.org): Linux alternate software controller for ATEM switchers.
 - [($)MixEffect](https://mixeffect.app): PAID iOS app to controll ATEM switchers.
-- [Bitfocus Companion](https://bitfocus.io/companion): Stream Deck and other control surfaces for ATEM and many other devices. [ATEM module](https://github.com/bitfocus/companion-module-bmd-atem).
+- [Bitfocus Companion](https://bitfocus.io/companion): Stream Deck and other control surfaces for ATEM and many other devices.
 - [atemOSC](https://github.com/SteffeyDev/atemOSC) / [($)Banyan AVBridge](https://atemosc.com): Control ATEM (and HyperDeck) over OSC, MIDI, and HTTP.
 - [SuperConductor](https://github.com/SuperFlyTV/SuperConductor): Cross-platform playout client that can control ATEM, CasparCG, OBS, vMix, and more.
 - [ATEMWeb](https://github.com/roygdavis/ATEMWeb): REST API for ATEM switchers.
@@ -61,6 +62,26 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 - [TouchDesigner ATEM CHOP](https://github.com/camikura/touchdesigner-atem-chop): Control ATEM from TouchDesigner's CHOP operator.
 - [Magic Pocket Control](https://github.com/marklysze/Magic-Pocket-Control-ESP32): BMD camera control on ESP32 devices (M5Stack, LILYGO, and others).
 - [Unbound Editor Device Customizer](https://github.com/PuzzleEmptyM/Unbound-editor-device-customizer): Remap Blackmagic Speed Editor buttons without DaVinci Resolve.
+
+### Bitfocus Companion modules
+- [ATEM](https://github.com/bitfocus/companion-module-bmd-atem)
+- [HyperDeck](https://github.com/bitfocus/companion-module-bmd-hyperdeck)
+- [Videohub](https://github.com/bitfocus/companion-module-bmd-videohub)
+- [Cameras](https://github.com/bitfocus/companion-module-bmd-cameras)
+- [Web Presenter](https://github.com/bitfocus/companion-module-bmd-webpresenter)
+- [SmartView](https://github.com/bitfocus/companion-module-bmd-smartview)
+- [MultiView 4](https://github.com/bitfocus/companion-module-bmd-multiview4)
+- [MultiView 16](https://github.com/bitfocus/companion-module-bmd-multiview16)
+- [Ultimatte](https://github.com/bitfocus/companion-module-bmd-ultimatte)
+- [Teranex](https://github.com/bitfocus/companion-module-bmd-teranex)
+- [Teranex Mini](https://github.com/bitfocus/companion-module-bmd-teranex-mini)
+- [Fairlight Live](https://github.com/bitfocus/companion-module-bmd-fairlight-live)
+- [Audio Monitor](https://github.com/bitfocus/companion-module-bmd-audiomonitor)
+- [GPI and Tally Interface](https://github.com/bitfocus/companion-module-bmd-gpi-and-tally-interface)
+
+### Bitfocus Companion surfaces
+- [Blackmagic Controller](https://github.com/bitfocus/companion-surface-blackmagic-controller): Use BMD hardware panels as Companion surfaces.
+- [Videohub Panel](https://github.com/bitfocus/companion-surface-blackmagic-videohub-panel): Use Videohub control panels as Companion surfaces.
 
 ## DaVinci Resolve
 
