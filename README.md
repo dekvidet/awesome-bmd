@@ -14,14 +14,15 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 
 ## Protocol Docs and Reverse Engineerings
 
-- [BMD ATEM switcher protocol by Skaarhoj](https://www.skaarhoj.com/discover/blackmagic-atem-switcher-protocol)
+- [BMD ATEM switcher protocol by Skaarhoj](https://web.archive.org/web/20240914132532/https://skaarhoj.com/discover/blackmagic-atem-switcher-protocol): Original page is gone; this is an Internet Archive snapshot.
+- [OpenSwitcher ATEM protocol docs](https://docs.openswitcher.org): Updated reverse-engineered ATEM protocol documentation (covers changes since the Skaarhoj notes).
 - [BMD Camera HDMI protocol](https://blog.brixit.nl/reverse-engineering-the-bmd-camera-hdmi-control/)
 - [Blackmagic firmware reverse engineering](https://github.com/micolous/blackmagic-firmware-re): Tools (`libbmfw` / `bmfw`) for inspecting and extracting BMD firmware and gateware update packages (ATEM, Web Presenter, converters, and more).
 
 ## Libraries
 
 ### Communcating with ATEM mixers by Languages
-- JavaScript: [Sofie ATEM Connection Library](https://github.com/nrkno/sofie-atem-connection), [Node Applest ATEM](https://github.com/applest/node-applest-atem), [ATEM](https://github.com/Dev1an/Atem)
+- JavaScript: [Sofie ATEM Connection Library](https://github.com/Sofie-Automation/sofie-atem-connection), [Node Applest ATEM](https://github.com/applest/node-applest-atem), [ATEM](https://github.com/Dev1an/Atem)
 - C#: [LibAtem](https://github.com/LibAtem/LibAtem)
 - C++/Qt: [libqatemcontrol](https://github.com/petersimonsson/libqatemcontrol)
 - Swift: [Swift ATEM](https://github.com/Dev1an/Swift-Atem)
@@ -56,9 +57,10 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 - [ATEM Compositor](https://github.com/TipoftheHats/atem-compositor): Alternate UI for Super Sources.
 - [H2R Layouts](https://layouts.heretorecord.com): Online alternate UI for Super Sources via macros.
 - [OpenSwitcher](https://openswitcher.org): Linux alternate software controller for ATEM switchers.
+- [ATEM-UI](https://github.com/MikanseiLaboratory/ATEM-UI): Open-source ATEM Software Control alternative (Tauri / Rust, built on necromancer).
 - [($)MixEffect](https://mixeffect.app): PAID iOS app to controll ATEM switchers.
 - [Bitfocus Companion](https://bitfocus.io/companion): Stream Deck and other control surfaces for ATEM and many other devices.
-- [atemOSC](https://github.com/SteffeyDev/atemOSC) / [($)Banyan AVBridge](https://atemosc.com): Control ATEM (and HyperDeck) over OSC, MIDI, and HTTP.
+- [atemOSC](https://github.com/SteffeyDev/atemOSC) / [($)Banyan AVBridge](https://www.banyan-av.com/avbridge): Control ATEM (and HyperDeck) over OSC, MIDI, and HTTP.
 - [SuperConductor](https://github.com/SuperFlyTV/SuperConductor): Cross-platform playout client that can control ATEM, CasparCG, OBS, vMix, and more.
 - [ATEMWeb](https://github.com/roygdavis/ATEMWeb): REST API for ATEM switchers.
 - [ATEM tally light (ESP8266)](https://github.com/AronHetLam/ATEM_tally_light_with_ESP8266): Wireless WiFi tally light for ATEM switchers.
