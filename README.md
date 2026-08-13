@@ -28,6 +28,7 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 - Arduino: [Arduino Libs by Skaarhoj](https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering/tree/master/ArduinoLibs)
 - Python: [PyATEMMax](https://github.com/clvLabs/PyATEMMax), [pyatem](https://git.sr.ht/~martijnbraam/pyatem) (OpenSwitcher)
 - Go: [ATEM Go](https://github.com/mraerino/atem-go), [Go ATEM](https://github.com/bdogan/go-atem)
+- Rust: [necromancer](https://github.com/micolous/necromancer)
 
 ### HyperDeck
 - JavaScript: [Sofie HyperDeck Connection](https://github.com/Sofie-Automation/sofie-hyperdeck-connection), [Hyperdeck-JS-Lib](https://github.com/LA1TV/Hyperdeck-JS-Lib)
@@ -36,6 +37,9 @@ A curated list of amazingly awesome collection of lists, software, libraries, do
 ### Videohub
 - [videohubctrl](https://github.com/gfto/videohubctrl): CLI to control Videohub SDI routers over the network.
 - Python: [bmd_videohub](https://github.com/sohonetlabs/bmd_videohub)
+
+### Fairlight
+- Rust: [fairlight-live-rs](https://github.com/MikanseiLaboratory/fairlight-live-rs): Fairlight Live TCP protocol client (mixer control, project database).
 
 ### DeckLink / Capture and Playback
 - JavaScript: [macadam](https://github.com/Streampunk/macadam): Async Node.js interface to DeckLink capture and playback devices.
